@@ -6,11 +6,11 @@ The **User Management Dashboard** is a simple web application that allows users 
 
 ## **Live Demo**
 
-🔗 [Live App on Netlify](https://your-netlify-link.netlify.app) _(Replace with actual Netlify link)_
+🔗 [Live App on Netlify](https://coruscating-beijinho-648525.netlify.app/)
 
 ## **GitHub Repository**
 
-🔗 [GitHub Repository](https://github.com/your-repo-link) _(Replace with actual GitHub repo link)_
+🔗 [GitHub Repository](https://github.com/PITTAJAGADEESH/ajackus-user-management-dashboard)
 
 ---
 
